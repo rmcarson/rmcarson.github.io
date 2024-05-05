@@ -24,8 +24,8 @@ author:
   avatar           : "P1000869 (2).jpg"
   name             : "Ryan Carson"
   pronouns         : # example: "she/her"  
-  bio              : # example: "Short biography for the left-hand sidebar"
-  location         : "NYC"
+  bio              : ""
+  location         : #example: "NYC"
   employer         : "New York University"
   uri              : # URL
   email            : "none@example.org" 
